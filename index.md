@@ -1,6 +1,6 @@
 ## Nekotina
 
-Nekotina es una bot de entretenimiento completamente en español. Actualmente se encuentra en **140,000+** con **7,000,000+** de usuarios activos.
+Nekotina es una bot de entretenimiento completamente en español. Actualmente se encuentra en **140,000+** servidores con **7,000,000+** de usuarios activos.
 
 ## Características
 Algunas de ellas son:
